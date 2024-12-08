@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JaydenCS
-- 👀 I’m interested in Quantitative Data Analytics, Algorithmic Trading and Machine Learning
+- 👀 I Build SaaS Product for Living.
+- 
 - 📫 How to reach me using sajijayden@gmail.com
 
 <!---
