@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JaydenCS
 - 👀 I Build SaaS Product for Living.
-- 
 - 📫 How to reach me using sajijayden@gmail.com
 
 <!---
